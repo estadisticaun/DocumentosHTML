@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527805347017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE09FEE0",
+    "lastKnownWriteTime" : 1527807666,
+    "last_content_update" : 1527807666960,
+    "path" : "C:/Users/Alberto/Desktop/Pruebas R/DocumentoHTML/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "22,15",
+        "scrollLine" : "15",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
