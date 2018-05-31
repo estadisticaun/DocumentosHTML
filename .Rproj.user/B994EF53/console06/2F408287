@@ -6,4 +6,93 @@ $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/windowlayoutstate.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/workbench-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/rmd-outputs.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/13C77999.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/3D979767.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/618133BD.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3943E986/6F4E0F0C.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3943E986/AE09FEE0.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3943E986/AE09FEE0-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/vcs_options.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hp[0Kr[0Ki[0Km[0Ke[0Kr[0K[25G[?25l$ git commit -m "primer c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
+[0K[?25h[master (root-commit) 2d3facd] primer commit[0K[?25l
+ 30 files changed, 398 insertions(+)[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/B994EF53/build_options[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/2F408287[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/rmd-outputs[0K
+ create mode 100644 .Rproj.user/B994EF53/saved_source_markers[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/13C77999[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/3D979767[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/618133BD[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3943E986/6F4E0F0C[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3943E986/6F4E0F0C-contents[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3943E986/AE09FEE0[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3943E986/AE09FEE0-contents[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3943E986/lock_file[0K
+ create mode 100644 .Rproj.user/B994EF53/vcs_options[0K
+ create mode 100644 .Rproj.user/shared/notebooks/4F077AE3-Index/1/B994EF533943E986/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/4F077AE3-Index/1/s/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/CF169ECF-index/1/B994EF533943E986/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/CF169ECF-index/1/s/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 DocumentoHTML.Rproj[0K
+ create mode 100644 _output.yml[0K
+ create mode 100644 index.Rmd[0K
+ create mode 100644 index.html[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/estadisticaun/DocumentosHTML.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 41, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (31/31), done.[0K
+Writing objects:  97% (40/41)[0K[1G[?25hWriting objects: 100% (41/41), 246.37 KiB | 7.95 MiB/s, done.[0K[?25l
+Total 41 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2), done.[0K[?25l
+[0K[?25hTo https://github.com/estadisticaun/DocumentosHTML.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
+bash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Desktop/Pruebas R/DocumentoHTML[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Desktop/Pruebas R/DocumentoHTML[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
